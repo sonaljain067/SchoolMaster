@@ -13,7 +13,7 @@ It's a web based APIs designed to manage school, students and administration. It
 to create virtual environment named `env`
 
 #### 3. Activate the virtual environment
-In Ubuntu: `source env/Scripts/activate` <br/>
+In Ubuntu: `source env/bin/activate` <br/>
 In Windows: `.\env\Scripts\activate`
 
 #### 4. Install dependencies
