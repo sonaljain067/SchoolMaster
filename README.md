@@ -52,4 +52,4 @@ The SchoolMaster has three types of users i.e administators, schools and student
 
 
 ## API Documentation
-The SchoolMaster API is documented using Postman. You can import the [Postman Collection](https://www.postman.com/restless-escape-344804/workspace/api-documentation/collection/17433654-df143c25-3c41-4f6f-a35e-29403f08dce1?action=share&creator=0) to get started.
+The SchoolMaster API is documented using Postman. You can import the [Postman Collection](https://elements.getpostman.com/redirect?entityId=17433654-df143c25-3c41-4f6f-a35e-29403f08dce1&entityType=collection) to get started.
